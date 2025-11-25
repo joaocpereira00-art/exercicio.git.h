@@ -6,7 +6,7 @@ public class Exercicio6 {
 
         Scanner ler = new Scanner(System.in);
 
-        int 
+     
 
        
     }
