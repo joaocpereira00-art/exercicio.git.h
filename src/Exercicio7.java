@@ -33,7 +33,7 @@ public class Exercicio7 {
                 valorSoma += 6.00;
                 case 4:
                 valorSoma += 8.00;
-                default:
+               
                 System.out.println("Opcao invalida e o programa sera fechado");
                 break;
             }
